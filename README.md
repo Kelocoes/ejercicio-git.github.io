@@ -7,7 +7,7 @@ Que los estudiantes aprendan a colaborar en un proyecto usando Git y GitHub, cre
 - **1 estudiante** será el Responsable del repositorio (Owner).
 - Los demás serán **colaboradores** (2 o 3 personas).
 
----
+--- 
 
 ## 🪜 Pasos del Taller
 
